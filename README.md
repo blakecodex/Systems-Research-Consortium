@@ -24,6 +24,6 @@ Systems-Research-Consortium/
 │   └── Audits/               # Checking the system for safety.
 └── README.md
 
-Collaboration & Legal
+### Collab & Legal
 - Open to Build: Collaboration is welcome. Please submit improvements via Pull Request.
 - License: Licensed under the MIT License.
