@@ -16,4 +16,31 @@ outcome.
   G10 coordination preserves commercial bank intermediation through 2030.
 - **Bravo — The 2028 Digital Bank Run.** What-If. Trigger event activates
   digital-rail flight-speed dynamics that slow-flight policy guardrails were
-  not calibrated to absorb. Carried in immersive form by
+  not calibrated to absorb. Carried in immersive form by the video below.
+- **Charlie — Sovereign Fragmentation.** Alternative. Gradual divergence of
+  CBDC standards across blocs fractures cross-border settlement.
+
+## Methodological frameworks
+
+- Bradshaw (2025) prompt engineering typology — five of seven techniques
+  applied substantively
+- Anti-determinism discipline in scenario visualization
+- Robust / Contingent / Scenario-Specific recommendation typology
+
+## Contents
+
+- 📄 [`capstone_portfolio.pdf`](./capstone_portfolio.pdf) — Full report (25 pages)
+- 🎬 [`bravo_video_final.mp4`](./bravo_video_final.mp4) — Pathway Bravo retrospective (1:44)
+- 🗂 [`storyboard.pptx`](./storyboard.pptx) — Companion storyboard
+
+## Citation
+
+Blake, B. (2026). *Pathways for the digital dollar: A three-scenario portfolio
+for CBDC deployment stress-testing, 2026–2030* [Capstone]. Georgetown
+University, School of Continuing Studies.
+
+---
+
+Production stack: Anthropic Claude (analytical scaffolding, drafting), OpenAI
+GPT-Image (visual generation), ElevenLabs (voiceover synthesis), Microsoft
+PowerPoint (video assembly).
