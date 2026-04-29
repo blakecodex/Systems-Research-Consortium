@@ -1,4 +1,4 @@
-# Applied Foresight
+# Systems Research
 
 Applied research at the intersection of strategic foresight, AI system design,
 and quantitative risk modeling. The goal is publishable work that holds up in
@@ -12,11 +12,17 @@ Capstone for Georgetown's Certificate in AI Scenarios for Strategic
 Decision-Making (Dr. Frederic Lemieux, instructor). Methodology: diagnostic
 scenarios designed to expose load-bearing assumptions, not predict outcomes.
 
-→ [`/cbdc-scenario-portfolio/`](./cbdc-scenario-portfolio/)
+**Artifacts:**
+- 📄 [Capstone report](./applied-foresight/ai_scenarios_strategic_decision_making/capstone_portfolio.pdf) (25 pages, PDF)
+- 🎬 [Pathway Bravo video](./applied-foresight/ai_scenarios_strategic_decision_making/video/) — 2035 retrospective on the 2028 Digital Bank Run (1:44, MP4)
+- 🗂 [Storyboard](./applied-foresight/ai_scenarios_strategic_decision_making/storyboard/) — Seven-panel scenario sequence (PPTX)
+
+→ Full project: [`/applied-foresight/ai_scenarios_strategic_decision_making/`](./applied-foresight/ai_scenarios_strategic_decision_making/)
 
 ## Repository structure
 
-- `/cbdc-scenario-portfolio/` — Capstone portfolio (Georgetown, 2026)
+- `/applied-foresight/` — Strategic foresight work (scenario design, capstone projects)
+  - `/ai_scenarios_strategic_decision_making/` — Georgetown capstone (2026)
 - `/strategy/` — Working notes on risk management, scenario design, game theory
 - `/research-engineering/` — Reference implementations, math models, system design
 - `/papers/` — Drafts and submitted manuscripts
