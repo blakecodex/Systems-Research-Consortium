@@ -1,29 +1,36 @@
-# Systems-Research-Consortium   
+# Applied Foresight
 
-### Goal: We turn high-level research into tools that work in the real world. This project connects elite academic theory with the engineering needed to run a business.   
+Applied research at the intersection of strategic foresight, AI system design,
+and quantitative risk modeling. The goal is publishable work that holds up in
+both academic and operational settings.
 
-### Where This Comes From:  
-Our work is built on training and research from three institutions:  
-  - Oxford: How to build and control AI systems.  
-  - Harvard: How to build systems that manage risk and strategy.  
-  - Georgetown: How to use statistics to make better decisions.
+## Current work
 
-### How the Project is Built:   
+### Pathways for the Digital Dollar (2026)
+Three-scenario portfolio stress-testing U.S. CBDC deployment through 2030.
+Capstone for Georgetown's Certificate in AI Scenarios for Strategic
+Decision-Making (Dr. Frederic Lemieux, instructor). Methodology: diagnostic
+scenarios designed to expose load-bearing assumptions, not predict outcomes.
 
-Systems-Research-Consortium/   
-├── Strategy/
-│   ├── Risk-Management/      # Plans for when things go wrong.
-│   ├── Decision-Speed/       # Tools to think and act faster.
-│   └── Game-Theory/          # Analyzing how others will react.
-├── Research-Engineering/
-│   ├── AI-Logic/             # Code that runs the AI models.
-│   ├── Math-Models/          # The statistics behind the systems.
-│   └── Machine-States/       # Maps of how the software moves.
-├── Documentation/
-│   ├── White-Papers/         # Detailed technical reports.
-│   └── Audits/               # Checking the system for safety.
-└── README.md
+→ [`/cbdc-scenario-portfolio/`](./cbdc-scenario-portfolio/)
 
-### Collab & Legal
-- Open to Build: Collaboration is welcome. Please submit improvements via Pull Request.
-- License: Licensed under the MIT License.
+## Repository structure
+
+- `/cbdc-scenario-portfolio/` — Capstone portfolio (Georgetown, 2026)
+- `/strategy/` — Working notes on risk management, scenario design, game theory
+- `/research-engineering/` — Reference implementations, math models, system design
+- `/papers/` — Drafts and submitted manuscripts
+
+## Collaboration
+
+Open to collaboration on applied research in foresight, AI architecture, and
+quantitative risk. Pull requests welcome for substantive improvements;
+discussion via Issues for higher-level questions.
+
+## License
+
+Code: MIT. Written work and figures: CC BY-NC-ND 4.0.
+
+---
+
+Maintained by Bledar Blake Zenuni.
